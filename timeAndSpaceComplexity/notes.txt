@@ -1,0 +1,9 @@
+when we are talking about performance we use absolute measure
+
+ex: if achieve 150m in 12s i am faster than who achives that in 15s
+
+--------------------------------------------------------
+
+its pretty difficult predict the running time of an algorithm because there are a lot of dependents such as:
+
+Programming language, the computer itself, the SO, the programs that are running beside and so on.
